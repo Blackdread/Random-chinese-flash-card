@@ -19,7 +19,7 @@ documentToSaveFairRandom = "/Users/yoann/Documents/Script Geektool/randomDict.pi
 useFairRandom = True
 
 # Choose from level 1 to 6
-hskFile = '/Users/yoann/Documents/UTBM/Semestre 5/A1_Data_Science/chineseCSV/HSK_Level_1.csv'
+hskFile = '/Users/yoann/Documents/UTBM/Semestre 5/A1_Data_Science/chineseCSV/HSK_Level_4.csv'
 
 
 pinyinToneMarks = {
@@ -78,13 +78,15 @@ def makeRandom():
 					randLine = random.randint(1, numberOfLine - 1 - 10)
 
 					# Possible also to allow some multiple occurences by doing:
-					if random.randint(0, 100) < 40:
+					if len(dictFairRand) > 10 and random.randint(0, 100) < 40:
 						while (True):
 							randLine = random.randint(1, numberOfLine - 1 - 10)
 							if randLine in dictFairRand:
 								break
 						break
 
+					# Should maybe do like the other one because every time, randLine is in dictFairRand we loop again and we give one more chance for
+					# an old occurence to appear again
 					if randLine not in dictFairRand:
 						# print "found",randLine," et ",len(dictFairRand)
 						break
