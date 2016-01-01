@@ -12,3 +12,6 @@ I used Geektool to show result on Desktop.
 
 
 See images for result examples
+
+
+I search for CSV data but not only words, I want sentences and different files with HSK level (like for words).
