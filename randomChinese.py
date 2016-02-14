@@ -44,6 +44,7 @@ def convertPinyin(s):
     return re.sub(ur'([aeiouüvÜ]{1,3})(n?g?r?)([012345])', convertPinyinCallback, s, flags=re.IGNORECASE)
 
 def makeRandom():
+	TOO_MUCH_ENTRIES = 1
 	global randLine
 	with open(hskFile, 'rb') as csvfile:
 	
@@ -54,10 +55,10 @@ def makeRandom():
 		# print numberOfLine
 
 		if not useFairRandom:
-			randLine = random.randint(1, numberOfLine - 1 - 7) # For no reason, i get more entries than real
+			randLine = random.randint(1, numberOfLine - 1 - TOO_MUCH_ENTRIES) # For no reason, i get more entries than real
 		else:
 			dictFairRand = getRandomDict()
-			if len(dictFairRand) >= numberOfLine - 1 - 10:
+			if len(dictFairRand) >= numberOfLine - 1 - TOO_MUCH_ENTRIES:
 			# ===================== Version 1 ===========================
 			# I do not really like, not really random
 			# 	minValue = 999999999
@@ -71,16 +72,16 @@ def makeRandom():
 
 			# ===================== Version 2 ===========================
 				resetRandomUsed()
-				randLine = random.randint(1, numberOfLine - 1 - 10)
+				randLine = random.randint(1, numberOfLine - 1 - TOO_MUCH_ENTRIES)
 			# ===========================================================
 			else:
 				while(True):
-					randLine = random.randint(1, numberOfLine - 1 - 10)
+					randLine = random.randint(1, numberOfLine - 1 - TOO_MUCH_ENTRIES)
 
 					# Possible also to allow some multiple occurences by doing:
 					if len(dictFairRand) > 10 and random.randint(0, 100) < 40:
 						while (True):
-							randLine = random.randint(1, numberOfLine - 1 - 10)
+							randLine = random.randint(1, numberOfLine - 1 - TOO_MUCH_ENTRIES)
 							if randLine in dictFairRand:
 								break
 						break
@@ -173,7 +174,13 @@ with open(hskFile, 'rb') as csvfile:
 		if spamreader2.line_num == randLine:
 			chinese = row['Word'].decode('utf-8')
 			# pro = row['Pronunciation'].decode('utf-8') # normal with numbers
-			pro = convertPinyin(row['Pronunciation'])
+
+			accents = "āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜĀÁǍÀĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛ"
+			if any((c in accents) for c in row['Pronunciation']):
+				# Means the pinyin is already written with accents
+				pro = row['Pronunciation'].decode('utf-8') # normal with numbers
+			else:
+				pro = convertPinyin(row['Pronunciation'])
 			# defi = row['Definition'].decode('utf-8')
 			defi = convertPinyin(row['Definition'].decode('utf-8'))
 			if showOnlyChinese:

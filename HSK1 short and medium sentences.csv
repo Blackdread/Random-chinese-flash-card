@@ -1,0 +1,600 @@
+Line;Chinese;Pinyin;Translation;NumberOfWords
+1;我爱你;wo3 ai4 ni3;I love you;3
+2;电话响了;Diànhuà xiǎngle;The telephone is ringing.;4
+3;他感冒了;tā gǎn màole;He caught a cold.;5
+4;不用麻烦了;bù yòng má fanle;Don't bother.;5
+5;很好,谢谢;hěn hǎo, xièxiè;Fine, thanks.;5
+6;我这就上路;wǒ zhè jiù shàng lù;I'm on my way.;5
+7;让我想一想;ràng wǒ xiǎng yī xiǎng;Let me see.;5
+8;不是我的错;bùshì wǒ de cuò;It's not my fault.;5
+9;都是我的错;dōu shì wǒ de cuò;It's all my fault.;5
+10;你干得很好;nǐ gàn dé hěn hǎo;You did a good job.;5
+11;我每晚洗澡;wǒ měi wǎn xǐzǎo;I bath every night.;5
+12;他年近四十;tā nián jìn sìshí;He is near forty.;5
+13;这需要时间;zhè xūyào shí jiān;It takes time.;5
+14;我不太清楚;wǒ bù tài qīngchǔ;I'm not really sure.;5
+15;我怎么知道;wǒ zěnme zhīdào;How should I know.;5
+16;母牛流产了;mǔ niú liúchǎnle;The cow cast her calf.;5
+17;它不是手表;tā bùshì shǒubiǎo;It is not a watch.;5
+18;请把门打开;qǐng bǎmén dǎkāi;Open the door, please.;5
+19;你会习惯的;nǐ huì xíguàn de;You'll get used to it.;5
+20;我马上就来;wǒ mǎshàng jiù lái;I'll be right with you.;5
+21;他正在开会;tā zhèngzài kāihuì;He is in conference.;5
+22;好久不见了;hǎojiǔ bùjiànle;Haven't seen you for ages.;5
+23;请再说一遍;qǐng zàishuō yībiàn;Say that again, please.;5
+24;他喜欢吹牛;tā xǐhuān chuīniú;He likes to throw the bull.;5
+25;她穿上袜子;tā chuān shàng wàzi;She draws on her socks.;5
+26;我正要找你;wǒ zhèng yào zhǎo nǐ;Just the man I was looking for.;5
+27;昨晚是满月;zuó wǎn shì mǎnyuè;Last night there was a full moon.;5
+28;别让我失望;bié ràng wǒ shīwàng;Don't let me down.;5
+29;这杯子碎了;zhè bēizi suìle;The glass shattered.;5
+30;他心地善良;tā xīndì shànliáng;He has a kind heart.;5
+31;请别打扰我;qǐng bié dǎrǎo wǒ;Please leave me alone.;5
+32;她恳求原谅;tā kěnqiú yuánliàng;She supplicated for pardon.;5
+33;雪深两英尺;xuě shēn liǎng yīngchǐ;The snow is two feet in depth.;5
+34;下课铃响了;xiàkè líng xiǎngle;There's the bell for the end of the lesson.;5
+35;我浑身疼痛;wǒ húnshēn téngtòng;I ache all over.;5
+36;不要嘲笑他;bùyào cháoxiào tā;Don't laugh at him.;5
+37;摆锤能摆动;bǎi chuí néng bǎidòng;A pendulum oscillates.;5
+38;满月呈圆形;mǎnyuè chéng yuán xíng;The full moon has a circular form.;5
+39;你疯了吗？;nǐ fēngle ma?;Are you insane?;5
+40;他遍体鳞伤;Tā biàntǐlínshāng;He was black and blue all over.;5
+41;这门闩不牢;zhè ménshuān bù láo;This door won't latch properly.;5
+42;谢谢您,先生;xièxiè nín, xiānshēng;Thank you, sir.;6
+43;啤酒走了气了;píjiǔ zǒuliǎo qìle;The beer is stale.;6
+44;把这本书给她;bǎ zhè běn shū gěi tā;Give her the book.;6
+45;他唱最高音部;tā chàng zuìgāo yīn bù;He sings treble.;6
+46;也许下一次吧;yěxǔ xià yīcì ba;Maybe some other time.;6
+47;一切都会好的;yīqiè dūhuì hǎo de;Everything will be OK.;6
+48;我有许多唱片;wǒ yǒu xǔduō chàngpiàn;I have many discs.;6
+49;日子不好过啊;rìzi bù hǎoguò a;Pretty tough day to day.;6
+50;他不喜欢吃鱼;tā bù xǐhuān chī yú;He doesn't care for fish.;6
+51;很高兴认识你;hěn gāoxìng rènshí nǐ;It's nice meeting you.;6
+52;我坐在他旁边;wǒ zuò zài tā pángbiān;I sat by his side.;6
+53;他在她的旁边;tā zài tā de pángbiān;He is being side her.;6
+54;请把菜单给我;qǐng bǎ càidān gěi wǒ;Please show me the menu.;6
+55;他刚请假走了;tā gāng qǐngjià zǒuliǎo;He's just gone on leave.;6
+56;我的电话坏了;wǒ de diànhuà huàile;My phone was out of order.;6
+57;你的眼力不错;nǐ de yǎnlì bùcuò;You've made a good choice.;6
+58;六除以二得三;liù chú yǐ èr dé sān;Six divided by two is three.;6
+59;我确实得走了;wǒ quèshí dé zǒuliǎo;I really have to be going.;6
+60;他跳上了桌子;tā tiào shàngle zhuōzi;He jumped onto the table.;6
+61;出现了新困难;chūxiànle xīn kùnnán;A new difficulty has arisen.;6
+62;他也学习汉语;tā yě xuéxí hànyǔ;He studies Chinese as well.;6
+63;他比我大两岁;tā bǐ wǒ dà liǎng suì;He is my senior by two years.;6
+64;这对我正合适;zhè duì wǒ zhèng héshì;That suits me all right.;6
+65;这方便得多了;zhè fāngbiàn dé duōle;It's much more convenient.;6
+66;下周学校复课;xià zhōu xuéxiào fùkè;School reopens next week.;6
+67;我看你不应该;wǒ kàn nǐ bù yìng gāi;I don't think you ought to.;6
+68;祝你生日快乐;zhù nǐ shēngrì kuàilè;I wish you a happy birthday.;6
+69;你得等一等看;nǐ dé děng yī děng kàn;You will have to wait and see.;6
+70;你过来试试看;nǐ guòlái shì shìkàn;Come on over to have a try.;6
+71;他紧握她的手;tā jǐn wò tā de shǒu;He held her hand in a firm clasp.;6
+72;布已经打成包;bù yǐjīng dǎ chéng bāo;The cloth was packed in bales.;6
+73;向你全家问好;xiàng nǐ quánjiā wènhǎo;Remember me to your family.;6
+74;这是常有的事;zhè shì cháng yǒu de shì;These things happen all the time.;6
+75;大家别同时说;dàjiā bié tóngshí shuō;Don't all speak at the same time.;6
+76;我很想吃饺子;wǒ hěn xiǎng chī jiǎozi;I feel like having some dumplings.;6
+77;我明天晚上来;wǒ míngtiān wǎnshàng lái;I'll come round tomorrow evening.;6
+78;我非常感谢您;wǒ fēicháng gǎnxiè nín;I'm extremely grateful to you.;6
+79;好像要下雨了;hǎoxiàng yào xià yǔle;It looks as if it is going to rain.;6
+80;她一直想成名;tā yīzhí xiǎng chéngmíng;She has always been desirous of fame.;6
+81;那匹马踢了我;nà pǐ mǎ tīle wǒ;That horse kicked me.;6
+82;你看上去心虚;nǐ kàn shàngqù xīnxū;You look guilty.;6
+83;他昨天到达的;tā zuótiān dàodá de;He arrived yesterday.;6
+84;这梯子有八级;zhè tīzi yǒu bā jí;The ladder has eight rungs.;6
+85;我的记性很差;wǒ de jìxìng hěn chà;I have a very poor memory.;6
+86;金钱不是一切;jīnqián bùshì yīqiè;Money isn't everything.;6
+87;云层正在堆积;yúncéng zhèngzài duījī;Clouds are banking up.;6
+88;人们叫她泼妇;rénmen jiào tā pōfù;People called her shrew.;6
+89;她和他订婚了;tā hé tā dìnghūnle;She plighted herself to him.;6
+90;他有一双套鞋;tā yǒu yīshuāng tàoxié;He has a pair of overshoes.;6
+91;祝你旅途愉快;zhù nǐ lǚtú yúkuài;I wish you a pleasant trip.;6
+92;棉花容易着火;miánhuā róngyì zháohuǒ;Cotton catches fire easily.;6
+93;祝您旅途愉快;zhù nín lǚtú yúkuài;I wish you a pleasant journey.;6
+94;灰狗跑得很快;huī gǒu pǎo dé hěn kuài;Greyhound can run very fast.;6
+95;他计划去南美;tā jìhuà qù nánměi;He purposed to visit South America.;6
+96;我想存点儿钱;wǒ xiǎng cún diǎn er qián;I'd like to deposit some money.;6
+97;演出极为成功;yǎnchū jíwéi chénggōng;The performance was immense.;6
+98;窗户碎成碎片;chuānghù suì chéng suìpiàn;The window broke into pieces.;6
+99;吸烟有害健康;xīyān yǒuhài jiànkāng;Smoking is bad for the health.;6
+100;他去年入党了;tā qù nián rùdǎngle;He was admitted to the Party last year.;6
+101;请把电源关掉;qǐng bǎ diànyuán guān diào;Please turn off the electric power.;6
+102;她在约克上学;tā zài yuēkè shàngxué;She went to school/university/college in York.;6
+103;警察负责执法;jǐngchá fùzé zhífǎ;The police are responsible for the enforcement of the law.;6
+104;饥饿引起犯罪;jī'è yǐnqǐ fànzuì;Hunger begets crime.;6
+105;车子毁了一半;chēzi huǐle yībàn;Half the car was damaged.;6
+106;黑天鹅很稀有;hēi tiān'é hěn xīyǒu;A black swan is rare.;6
+107;不要践踏草地;bùyào jiàntà cǎodì;Don't trample on the grass.;6
+108;他在雪中漫步;tā zài xuě zhōng mànbù;He is walking amidst the snow.;6
+109;我们忠于祖国;wǒmen zhōngyú zǔguó;We are loyal to our motherland.;6
+110;瓶上标明有毒;píng shàng biāomíng yǒudú;The bottle is labeled poison.;6
+111;人生幸福易逝;rénshēng xìngfú yì shì;Human happiness is so fragile.;6
+112;爱情不分贫富;àiqíng bù fēn pín fù;Love lives in cottages as well as in courts.;6
+113;外面在下冰雹;wàimiàn zàixià bīngbáo;It's hailing outside.;6
+114;他有音乐天赋;tā yǒu yīnyuè tiānfù;He has a gift for music.;6
+115;猪是一种家畜;zhū shì yī zhǒng jiāchù;A pig is a domestic animal.;6
+116;请不要嘲笑他;qǐng bùyào cháoxiào tā;Please don't laugh at him.;6
+117;城堡的墙很厚;chéngbǎo de qiáng hěn hòu;The castle walls are very thick.;6
+118;你住在哪儿？;nǐ zhù zài nǎ'er?;Where do you live?;6
+119;多好的主意！;Duō hǎo de zhǔyì!;What a swell idea!;6
+120;你太过分了！;Nǐ tài guòfènle!;You've gone too far!;6
+121;你想喝茶吗?;Nǐ xiǎng hē chá ma?;Would you like a cup of tea?;6
+122;那儿怎么样？;Nà'er zěnme yàng?;What is it like there?;6
+123;这里谁负责？;Zhèlǐ shuí fùzé?;Who is in charge here?;6
+124;那个掸子很脏;Nàgè dǎnzi hěn zàng;That duster is very dirty.;6
+125;你选哪本书？;nǐ xuǎn nǎ běn shū?;Which one of the books is your pick?;6
+126;鱼通过鳃呼吸;Yú tōngguò sāi hūxī;A fish breathes through its gills.;6
+127;春天嫩芽初绽;chūntiān nèn yá chū zhàn;The new buds appear in the spring.;6
+128;我的钢笔是新的;wo3 de gang1 bi3 shi4 xin1 de ;My pen is new.;7
+129;这对我太合适了;zhe4 dui4 wo3 tai4 he2 shi4 le ;Suits me fine.;7
+130;是的,当然可以;shi4 de dang1 ran2 ke3 yi3 ;Yes, certainly.;7
+131;他的帽子没戴正;ta1 de mao4 zi mo4 dai4 zheng4! ;His hat isn't on straight.;7
+132;祝你下一次好运;zhu4 ni3 xia4 yi1 ci4 hao3 yun4 ;Better luck next time.;7
+133;我每天早上刮脸;wo3 mei3 tian1 zao3 shang gua1 lian3! ;I shave every morning.;7
+134;我把袜子穿破了;wo3 ba3 wa4 zi chuan1 po4 le! ;I've worn holes in my socks.;7
+135;现在五点差一刻;xian4 zai4 wu3 dian3 ci1 yi1 ke4 ;It is a quarter to five.;7
+136;迟到总比不到好;chi2 dao4 zong3 bi4 bu4 dao4 hao4 ;Better late than never.;7
+137;我知道那种感觉;wo3 zhi1 dao4 na4 zhong4 gan3 jue2 ;I know the feeling.;7
+138;她有着细长的腿;ta1 you3 zhe xi4 chang2 de tui3 ;She has long thin shanks.;7
+139;农作物需要雨水;nong2 zuo4 wu4 xu1 yao4 yu3 shui3 ;The crops need rain.;7
+140;你只是说说而已;ni3 zhi3 shi4 shuo1 shuo1 er2 yi3 ;You are just saying that.;7
+141;有了它真是方便;you3 le ta1 zhen1 shi4 fang1 bian4 ;It really comes in handy.;7
+142;他发烧满脸通红;ta1 fa1 shao1 man3 lian3 tong1 hong2! ;Fever flushed his cheeks.;7
+143;我在街上遇到他;wo3 zai4 jie1 shang4 yu4 dao4 ta1 ;I met him in the street.;7
+144;你应该去看医生;ni3 ying1 gai1 qu4 kan4 yi1 sheng1 ;You should see a doctor.;7
+145;这星期他会很忙;zhe4 xing1 qi1 ta1 kuai4 hen3 mang2 ;He is very busy this week.;7
+146;我的数学不太好;wo3 de shu4 xue2 bu4 tai4 hao4 ;I am not good at mathematics.;7
+147;那部影片很叫座;na4 bu4 ying3 pian4 hen3 jiao4 zuo4 ;That film was a great draw.;7
+148;我的表慢五分钟;wo3 de biao3 man4 wu3 fen1 zhong1 ;My watch is five minutes slow.;7
+149;我教她骑自行车;wo3 jiao4 ta1 qi2 zi4 xing2 che1 ;I taught her to ride a bicycle.;7
+150;这只是时间问题;zhe4 zhi3 shi4 shi2 jian1 wen4 ti2 ;It's only a matter of time.;7
+151;这孩子身上发烧;zhe4 hai2 zi shen1 shang4 fa1 shao1! ;The child's body felt feverish.;7
+152;外边冷，多穿些衣服;wai4 bian leng3, duo1 chuan1 xie1 yi1fu;It's cold outside, put more clothes.;9
+153;她是工业设计师;ta1 shi4 gong1 ye4 she4 ji4 shi1 ;She is an industrial designer.;7
+154;我们确信能胜利;wo3 men que4 xin4 neng2 sheng4 li4 ;We are confident of victory.;7
+155;她总穿着黑衣服;ta1 zong3 chuan1 zhuo2 hei1 yi1 fu ;She always dresses in black.;7
+156;我将等到四点钟;wo3 jiang4 deng3 dao4 si4 dian3 zhong1 ;I'll wait till four o'clock.;7
+157;你把帽子戴反了;ni3 ba3 mao4 zi dai4 fan3 le ;You have put your hat on backwards.;7
+158;她喜欢各种运动;ta1 xi3 huan ge4 zhong3 yun4 dong4 ;She likes all kinds of sports.;7
+159;马在路上小跑着;ma3 zai4 lu4 shang xiao3 pao3 zhuo2 ;The horse trotted down the road.;7
+160;我看到他就高兴;wo3 kan4 dao4 ta1 jiu4 gao1 xing4 ;I never see him but I am happy.;7
+161;他有早起的习惯;ta1 you3 zao3 qi3 de xi2 guan4 ;He is in the habit of rising early.;7
+162;认识从实践开始;ren4 shi zong4 shi2 jian4 kai1 shi3 ;Knowledge begin with practice.;7
+163;老人快步走开了;lao3 ren2 kuai4 bu4 zou3 kai1 le ;The old man set off at a quick trot.;7
+164;只剩下一听肉了;zhi3 sheng4 xia4 yi1 ting4 rou4 le ;There is only one can of meat left.;7
+165;医生一会儿就到;yi1 sheng1 yi1 huir4 jiu4 dao4 ;The doctor will be here presently.;7
+166;我的日语相当差;wo3 de ri4 yu3 xiang1 dang1 ci1 ;My knowledge of Japanese is rather poor.;7
+167;从前有一个公主;cong2 qian2 you3 yi1 ge4 gong1 zhu3! ;Once upon a time there was a princess.;7
+168;我只想说对不起;wo3 zhi3 xiang3 shuo1 dui4 bu4 qi3 ;I want to say nothing but sorry.;7
+169;教堂在学校附近;jiao4 tang2 zai4 xue2 xiao4 fu4 jin4 ;The church is close to the school.;7
+170;她正找电灯开关;ta1 zheng4 zhao3 dian4 deng1 kai1 guan1 ;She is fumbling the light switch.;7
+171;我深爱我的祖国;wo3 shen1 ai4 wo3 de zu3 guo2 ;I love my country with every fiber of my being.;7
+172;这二人一见钟情;zhe4 er4 ren2 yi1 xian4 zhong1 qing2 ;The two fell in love with each other at the first sight.;7
+173;他的梦想实现了;ta1 de meng4 xiang3 shi2 xian4 le ;His dream came true.;7
+174;我开始执行计划;wo3 kai1 shi3 zhi2 xing2 ji4 hua4 ;I set a project afoot.;7
+175;我编了一个花环;wo3 bian1 le yi1 ge4 hua1 huan2 ;I wove a garland of flowers.;7
+176;金钱买不来幸福;jin1 qian2 mai3 bu4 lai2 xing4 fu2 ;Money can't buy happiness.;7
+177;我们都帮忙收割;wo3 men dou1 bang1 mang2 shou1 ge1 ;We all helped the harvest.;7
+178;她从梯子上下来;ta1 zong4 ti1 zi shang4 xia4 lai2! ;She got down from the ladder.;7
+179;握手时软弱无力;wo4 shou3 shi2 ruan3 ruo4 wu2 li4 ;Has limp, weak handshake.;7
+180;我的鞋底都断了;wo3 de xie2 di3 dou1 duan4 le ;The soles of my shoes are broken.;7
+181;这孩子冷得发抖;zhe4 hai2 zi leng3 de fa1 dou3 ;The child shivered from the cold.;7
+182;他似乎不愿离去;ta1 si4 hu bu4 yuan4 li2 qu4 ;He seemed somewhat loath to depart.;7
+183;请把字典递给我;qing3 ba3 zi4 dian3 di4 ji3 wo3 ;Please pass the dictionary to me.;7
+184;这房子又冷又湿;zhe4 fang2 zi you4 leng3 you4 shi1 ;The building was cold and damp.;7
+185;学英文是值得的;xue2 Ying1 wen2 shi4 zhi2 de de ;It is worth while to learn English.;7
+186;吸烟对健康有害;xi1 yan1 dui4 jian4 kang1 you3 hai4 ;Smoking is injurious to health.;7
+187;这些话毫无意义;zhe4 xie hua4 hao2 wu2 yi4 yi4 ;These words are empty of meaning.;7
+188;他正沿海边走去;ta1 zheng4 yan2 hai3 bian1 zou3 qu4 ;He is walking down the seaside.;7
+189;他们用卡车运煤;ta1 men yong4 ka3 che1 yun4 mei2 ;They use a lorry to carry coals.;7
+190;疼痛越来越剧烈;teng2 tong4 yue4 lai2 Yue4 ju4 lie4 ;The pain increased in intensity.;7
+191;那种声音很刺耳;na4 zhong4 sheng1 yin1 hen3 ci4 er3 ;The sound was very discordant.;7
+192;他划船渡过湖面;ta1 hua4 chuan2 du4 guo4 hu2 mian4 ;He rowed the boat across the lake.;7
+193;秋天时叶子变黄;qiu1 tian1 shi2 ye4 zi bian4 huang2 ;The leaves turn yellow in autumn.;7
+194;再见,旅途愉快;zai4 jian4 lu:3 tu2 yu2 kuai4 ;Good-bye, and have a nice journey.;7
+195;在米饭上撒点盐;zai4 mi3 fan4 shang4 sa3 dian3 yan2! ;Sprinkle a little salt on the rice.;7
+196;人们正排队买票;ren2 men zheng4 pai2 dui4 mai3 piao4 ;People are queuing to buy tickets.;7
+197;他一紧张就结巴;ta1 yi1 jin3 zhang1 jiu4 jie2 ba1 ;He stammers when he feels nervous.;7
+198;月球绕地球运行;yue4 qiu2 rao4 di4 qiu2 yun4 xing2 ;The moon revolves around the earth.;7
+199;大蕉类似于香蕉;da4 jiao1 lei4 si4 yu2 xiang1 jiao1 ;A plantain is similar to a banana.;7
+200;探照灯扫过天空;tan4 zhao4 deng1 sao4 guo4 tian1 kong1 ;Searching lights traversed the sky.;7
+201;他渴望回到故乡;ta1 ke3 wang4 hui2 dao4 gu4 xiang4 ;He yearned to return to his native land.;7
+202;孩子们盼望放假;hai2 zi men pan4 wang4 fang4 jia4! ;The children are longing for the holidays.;7
+203;桌上有个水果盘;zhuo1 shang4 you3 ge4 shui3 guo3 pan2 ;There is a fruit bowl on the table.;7
+204;山顶上终年积雪;shan1 ding3 shang4 zhong1 nian2 ji1 xue3 ;The mountain peaks are covered with snow all year.;7
+205;哦,也许我错了;o2 ye3 xu3 wo3 cuo4 le ;Oh, maybe I was wrong.;7
+206;他渴望拥有权力;ta1 ke3 wang4 yong1 you3 quan2 li4 ;He was thirsty for power.;7
+207;吵闹声使他烦躁;chao3 nao4 sheng1 shi3 ta1 fan2 zao4 ;The loud noise chafed him.;7
+208;青蛙跳进了沟里;qing1 wa1 tiao4 jin4 le gou1 li3 ;The frog jumped into the ditch.;7
+209;父辈应当被尊重;fu4 bei4 ying1 dang1 bei4 zun1 zhong4 ;A sire should be respected.;7
+210;真是倒霉的日子;zhen1 shi4 dao3 mei2 de ri4 zi ;It's just been one of those days.;7
+211;她匆匆赶往机场;ta1 cong1 cong1 gan3 wang4 ji1 chang3 ;She hurried to the airport.;7
+212;她一辈子搞戏剧;ta1 yi1 bei4 zi gao3 xi4 ju4 ;She is been in the theater all her life.;7
+213;我喜欢戴银首饰;wo3 xi3 huan dai4 yin2 shou3 shi4 ;I like to wear argentine jewellery.;7
+214;炮兵部署在西边;pao4 bing1 bu4 shu3 zai4 xi1 bian1! ;Artillery was deployed in the west.;7
+215;有炸鸡肉作晚餐;you3 zha4 ji1 rou4 zuo4 wan3 can1 ;There was fried chicken for dinner.;7
+216;他们衷心欢迎他;ta1 men zhong1 xin1 huan1 ying2 ta1 ;They gave him a hearty welcome.;7
+217;金属遇热则膨胀;jin1 shu3 yu4 re4 ze2 peng2 zhang4 ;Metals expand when they are heated.;7
+218;鼓声平稳而缓慢;gu3 sheng1 ping2 wen3 er2 huan3 man4 ;The beats of the drum were steady and slow.;7
+219;汗从毛孔中渗出;han4 zong4 mao2 kong3 zhong4 shen4 chu1! ;Sweat exudes through the pores.;7
+220;牛奶可制成凝乳;niu2 nai3 ke3 zhi4 cheng2 ning2 ru3 ;Milk can be made into curds.;7
+221;空气中烟雾弥漫;kong1 qi4 zhong4 yan1 wu4 mi2 man4 ;The air was thick with smoke.;7
+222;他发誓永远爱她;ta1 fa1 shi4 yong3 yuan3 ai4 ta1 ;He swore to love her for evermore.;7
+223;尸体躺在血泊中;shi1 ti3 tang3 zai4 xue4 bo2 zhong.4 ;The body was lying in a pool of blood.;7
+224;花发出一阵幽香;hua1 fa1 chu1 yi1 zhen4 you1 xiang1 ;The flowers gave off a fragrant odor.;7
+225;世界上有七大洲;shi4 jie4 shang4 you3 qi1 da4 zhou1 ;There are seven continents in the world.;7
+226;水由氢和氧组成;shui3 you2 qing1 huo4 yang3 zu3 cheng2 ;Water is composed of hydrogen and oxygen.;7
+227;接着怎么样了?;jie1 zhe zen3 me yang4 le? ;What happened then?;7
+228;我说清楚了吗?;wo3 shuo1 qing1 chu le ma? ;Am I making myself clear?;7
+229;你做什么工作？;ni3 zuo4 shen2 me gong1 zuo4? ;What's your job?;7
+230;猪已喂过了吗?;zhu1 yi3 wei4 guo4 le ma? ;Have the pigs been fed yet?;7
+231;你懂挪威语吗？;ni3 dong3 nuo2 wei1 yu4 ma?! ;Do you know Norwegian?;7
+232;这是谁的钢笔？;zhe4 shi4 shei2 de gang1 bi3? ;Whose pen is this?;7
+233;你要橘子水吗?;ni3 yao4 ju2 zi shui3 ma? ;Would you like some orange?;7
+234;你觉得怎么样？;ni3 jue2 de zen3 me yang4? ;What do you think of it?;7
+235;你赚了多少钱？;ni3 zuan4 le duo1 shao qian2? ;How much money did you make?;7
+236;你喜欢香港吗？;ni3 xi3 huan xiang1 gang3 ma?! ;How do you like Hong Kong?;7
+237;祝您新年快乐！;zhu4 nin2 xin1 nian2 kuai4 le4! ;A happy new year to you!;7
+238;明天上午行吗?;ming2 tian1 shang4 wu3 xing4 ma? ;Is tomorrow morning any good?;7
+239;对不起；请原谅;"dui4 bu4 qi3; qing3 yuan2 liang4 ";I beg your pardon.;7
+240;她拍落几绺头发;ta1 pai1 luo4 ji3 liu3 tou2 fa! ;She patted down a few wisps of hair.;7
+241;谁迟到谁倒霉！;shei2 chi2 dao4 shei2 dao3 mei2! ;Woe betide anyone who arrives late!;7
+242;出国要多少钱？;chu1 guo2 yao4 duo1 shao qian2? ;How much does it cost to go abroad?;7
+243;池塘里有些芦苇;chi2 tang2 li3 you3 xie1 lu2 wei3 ;There are some reeds in the pond.;7
+244;久旱使青草枯萎;jiu3 han4 shi3 qing1 cao3 ku1 wei3 ;The long drought scorched the grass.;7
+245;卸货需要多久？;xie4 huo4 xu1 yao4 duo1 jiu3? ;How long will the discharge of the cargo take?;7
+246;我们是六点出发的;wo3 men shi4 liu4 dian3 chu1 fa1 de! ;We started at six.;8
+247;我们喝了一些鸡汤;wo3 men he4 le yi1 xie1 ji1 tang1 ;We had some chicken soup.;8
+248;五加三的总和是八;wu3 jia1 san1 de zong3 he2 shi4 ba1 ;The sum of 5 and 3 is 8.;8
+249;他极为大家所爱戴;ta1 ji2 wei2 da4 jia1 suo3 ai4 dai4 ;He is held in affection.;8
+250;他的物理学得很好;ta1 de wu4 li3 xue2 de hen3 hao4 ;He does well in physics.;8
+251;我不知道该怎么办;wo3 bu4 zhi1 dao4 gai1 zen3 me ban4 ;I have no idea what to do.;8
+252;那孩子将满六岁了;na4 hai2 zi jiang4 man3 liu4 sui4 le ;The child will be six.;8
+253;我认为我考得不错;wo3 ren4 wei2 wo3 kao3 de bu4 cuo4! ;I think I did OK in the exam.;8
+254;我们必须重新开始;wo3 men bi4 xu1 chong2 xin1 kai1 shi3 ;We must make a new start.;8
+255;她一大早就起床了;ta1 yi1 da4 zao3 jiu4 qi3 chuang2 le ;She rose with the lark.;8
+256;我和她长谈了一次;wo3 huo4 ta1 chang2 tan2 le yi1 ci4 ;I had a long talk with her.;8
+257;三的立方是二十七;san1 de li4 fang1 shi4 er4 shi2 qi1 ;Three cubed is twenty-seven.;8
+258;我今天的心情不好;wo3 jin1 tian1 de xin1 qing2 bu4 hao3 ;I'm feeling blue today.;8
+259;不会发很多时间的;bu4 hui4 fa4 hen3 duo1 shi2 jian1 de ;It won't take much time.;8
+260;我很愿意。谢谢你;wo3 hen3 yuan4 yi4. xie4 xie ni3;I do very much! Thank you.;8
+261;你说的话没有道理;ni3 shuo1 de hua4 mei2 you3 dao4 li3! ;What you say makes no sense.;8
+262;向你的孩子们问好;xiang4 ni3 de hai2 zi men wen4 hao3 ;Give my love to your kids.;8
+263;那顿饭简直好极了;na4 dun4 fan4 jian3 zhi2 hao4 ji2 le ;That meal was simply divine!;8
+264;很高兴再次见到你;hen3 gao1 xing4 zai4 ci4 xian4 dao4 ni3 ;I'm glad to see you again.;8
+265;这完全是你的过错;zhe4 wan2 quan2 shi4 ni3 de guo4 cuo4 ;It's your fault entirely.;8
+266;这对我没什么差别;zhe4 dui4 wo3 mo4 shen2 me cha1 bie2 ;It makes no difference to me.;8
+267;他的病让我急死了;ta1 de bing4 rang4 wo3 ji2 si3 le ;I'm worried sick by his illness.;8
+268;新年期间我去看你;xin1 nian2 qi1 jian1 wo3 qu4 kan4 ni3! ;I'll see you in the new year.;8
+269;我不明白你的意思;wo3 bu4 ming2 bai2 ni3 de yi4 si ;I can't apprehend your meaning.;8
+270;我的手表走时准确;wo3 de shou3 biao3 zou3 shi2 zhun3 que4 ;My watch keeps good time.;8
+271;我们游遍全国各地;wo3 men you2 bian4 quan2 guo2 ge4 di4! ;We travelled all over the country.;8
+272;这听上去挺不错的;zhe4 ting4 shang4 qu4 ting3 bu4 cuo4 de ;It sounds quite all right.;8
+273;我想预定一个房间;wo3 xiang3 yu4 ding4 yi1 ge4 fang2 jian1 ;I want to reserve a room.;8
+274;她把头发拍整齐了;ta1 ba3 tou2 fa4 pai1 zheng3 qi2 le! ;She patted her hair into place/shape.;8
+275;他是一个数学天才;ta1 shi4 yi1 ge4 shu4 xue2 tian1 cai2 ;He is a mathematical genius.;8
+276;我最近没有看到他;wo3 zui4 jin4 mei2 you3 kan4 dao4 ta1 ;I haven't seen him recently.;8
+277;男孩很快地跑上楼;nan2 hai2 hen3 kuai4 de pao3 shang4 lou2 ;The boy ran upstairs quickly.;8
+278;她在一所中学学习;ta1 zai4 yi1 suo3 zhong1 xue2 xue2 xi2 ;She studies in a high school.;8
+279;发言共占去三小时;fa1 yan2 gong4 zhan4 qu4 san1 xiao3 shi2! ;The speeches occupied three hours.;8
+280;这些药对你有好处;zhe4 xie yao4 dui4 ni3 you3 hao3 chu ;This medicine will do you good.;8
+281;这次考试比较容易;zhe4 ci4 kao3 shi4 bi3 jiao4 rong2 yi4 ;The exam was relatively easy.;8
+282;四月是种树的时候;si4 yue4 shi4 zhong4 shu4 de shi2 hou ;April is the time to plant trees.;8
+283;今天暖和一点儿了;jin1 tian1 nuan3 huo2 yi1 dianr3 le! ;The weather is a bit warmer today.;8
+284;我想买一个新床单;wo3 xiang3 mai3 yi1 ge4 xin1 chuang2 dan1 ;I want to buy a new bed linen.;8
+285;房间里挤满了客人;fang2 jian1 li3 ji3 man3 le ke4 ren ;The room was crowded with guests.;8
+286;日本在中国的东面;Ri4 ben3 zai4 Zhong1 guo2 de dong1 mian4 ;Japan lies to the east of China.;8
+287;他假装没有听见我;ta1 jia3 zhuang1 mei2 you3 ting1 jian4 wo3 ;He affected not to hear me.;8
+288;我的爱人很会做饭;wo3 de ai4 ren hen3 kuai4 zuo4 fan4 ;My wife is very useful at cooking.;8
+289;没有人想碰到麻烦;mei2 you3 ren2 xiang3 peng4 dao4 ma2 fan ;No one liked to have trouble.;8
+290;他了解人民的意向;ta1 liao3 jie3 ren2 min2 de yi4 xiang4 ;He knew the pulse of the people.;8
+291;直到他来我才离开;zhi2 dao4 ta1 lai2 wo3 cai2 li2 kai1 ;It was not until he came that I left.;8
+292;那位技师技术很好;na4 wei4 ji4 shi1 ji4 shu4 hen3 hao3 ;That technician is highly skilled.;8
+293;现代的人想法不同;xian4 dai4 de ren2 xiang3 fa3 bu4 tong2 ;People today think differently.;8
+294;他在一所中学工作;ta1 zai4 yi1 suo3 zhong1 xue2 gong1 zuo4 ;He works in a secondary school.;8
+295;他们正在准备考试;ta1 men zheng4 zai4 zhun3 bei4 kao3 shi4 ;They were girding for the exam.;8
+296;在这河里游泳危险;zai4 zhe4 he2 li3 you2 yong3 wei1 xian3 ;This river is dangerous to bathe in.;8
+297;许多灯照亮了街道;xu3 duo1 deng1 zhao4 liang4 le jie1 dao4 ;The street is illumined by many lights.;8
+298;她会说日语和英语;ta1 kuai4 shuo1 ri4 yu3 huo4 Ying1 yu3 ;She can speak Japanese as well as English.;8
+299;他到十一点才回家;ta1 dao4 shi2 yi1 dian3 cai2 hui2 jia1 ;Not until eleven o'clock did he come home.;8
+300;我的钟一定是坏了;wo3 de zhong1 yi1 ding4 shi4 huai4 le ;There must be something wrong with my clock.;8
+301;事故发生在六点钟;shi4 gu4 fa1 sheng1 zai4 liu4 dian3 zhong1 ;The accident happened at six o'clock.;8
+302;我只懂得一点法语;wo3 zhi3 dong3 de yi1 dian3 fa3 yu3 ;I have only a limited understanding of French.;8
+303;他欢喜得说不出来;ta1 huan1 xi3 de shuo1 bu4 chu1 lai ;In the fullness of his joy, he could hardly speak.;8
+304;他去邮局买些邮票;ta1 qu4 you2 ju2 mai3 xie1 you2 piao4 ;He went to the post-office to buy some stamps.;8
+305;书页因年久而变黄;shu1 ye4 yin1 nian2 jiu3 er2 bian4 huang2 ;The leaves of the book had yellowed with age.;8
+306;让我们友好地谈话;rang4 wo3 men you3 hao3 de tan2 hua4 ;Let's keep the conversation on a friendly plane.;8
+307;全校在大礼堂集合;quan2 xiao4 zai4 da4 li3 tang2 ji2 he2! ;The whole school (was) assembled in the main hall.;8
+308;你我都不会说汉语;ni3 wo3 dou1 bu4 hui4 shuo1 Han4 yu3! ;You're no more capable of speaking Chinese than I am.;8
+309;黑板在教室的前面;hei1 ban3 zai4 jiao4 shi4 de qian2 mian ;The blackboard is in the front of the classroom.;8
+310;请医生开点咳嗽药;qing3 yi1 sheng1 kai1 dian3 ke2 sou yao4! ;Ask the doctor to prescribe something for that cough.;8
+311;这种菜好吃不好做;zhe4 zhong3 cai4 hao3 chi1 bu4 hao3 zuo4! ;This dish is delicious but rather a trouble to prepare.;8
+312;他的头发已剪短了;ta1 de tou2 fa yi3 jian3 duan3 le ;His hair has been cut short.;8
+313;我们应当遵守法律;wo3 men ying1 dang1 zun1 shou3 fa3 lu:4 ;We should obey the law.;8
+314;没有什么可害怕的;mei2 you3 shen2 me ke3 hai4 pa4 de! ;There's nothing to be afraid of.;8
+315;我再也不能忍受了;wo3 zai4 ye3 bu4 neng2 ren3 shou4 le ;I can't stick it any more.;8
+316;他是个有个性的人;ta1 shi4 ge4 you3 ge4 xing4 de ren2 ;He is a man of individuality.;8
+317;会议每年举行一次;hui4 yi4 mei3 nian2 ju3 xing2 yi1 ci4 ;The meeting is held yearly.;8
+318;他的头一阵阵地痛;ta1 de tou yi1 zhen4 zhen4 di4 tong4 ;His head throbbed with pain.;8
+319;针刺进了她的手指;zhen1 ci4 jin4 le ta1 de shou3 zhi3 ;The needle pierced her finger.;8
+320;江河大多流入海洋;jiang1 he2 da4 duo1 liu2 ru4 hai3 yang2! ;Most rivers flow into the sea.;8
+321;他们要求立即付款;ta1 men yao1 qiu2 li4 ji2 fu4 kuan3 ;They demand prompt payment.;8
+322;请不要责怪你自己;qing3 bu4 yao4 ze2 guai4 ni3 zi4 ji3 ;Please don't blame yourself.;8
+323;我们遇到四架敌机;wo3 men yu4 dao4 si4 jia4 di2 ji1! ;We encountered four enemy aircraft.;8
+324;苹果中好几个烂了;ping2 guo3 zhong4 hao3 ji3 ge4 lan4 le ;Several of the apples are bad.;8
+325;他的叔叔教他法语;ta1 de shu1 shu jiao4 ta1 fa3 yu3 ;His uncle instructed him in French.;8
+326;这些页数次序不对;zhe4 xie ye4 shuo4 ci4 xu4 bu4 dui4 ;The pages aren't in proper order.;8
+327;贸易促进工业发展;mao4 yi4 cu4 jin4 gong1 ye4 fa1 zhan3 ;Trade helps industry to develop.;8
+328;他穿着一套黑西装;ta1 chuan1 zhuo2 yi1 tao4 hei1 xi1 zhuang1 ;He is wearing a black suit.;8
+329;她是个真正的专家;ta1 shi4 ge4 zhen1 zheng4 de zhuan1 jia1 ;She is a real professional.;8
+330;花园的宽度为六米;hua1 yuan2 de kuan1 du4 wei4 liu4 mi3 ;The garden is six meters in width.;8
+331;他是为历史学教授;ta1 shi4 wei4 li4 shi3 xue2 jiao4 shou4 ;He is a professor of history.;8
+332;巴西出口大量咖啡;Ba1 xi1 chu1 kou3 da4 liang4 ka1 fei1 ;Brazil exports a lot of coffee.;8
+333;他没多少文化修养;ta1 mo4 duo1 shao wen2 hua4 xiu1 yang3 ;He is a man of little culture.;8
+334;病人常常虚弱无力;bing4 ren2 chang2 chang2 xu1 ruo4 wu2 li4 ;A sick person is often feeble.;8
+335;他们约定不久见面;ta1 men yue1 ding4 bu4 jiu3 jian4 mian4 ;They made a date to meet soon.;8
+336;他把网球打过了网;ta1 ba3 wang3 qiu2 da3 guo4 le wang3 ;He hit the tennis ball over the net.;8
+337;我们用力挤过人群;wo3 men yong4 li4 ji3 guo4 ren2 qun2 ;We thrust our way through the crowd.;8
+338;我们要做陆地旅行;wo3 men yao4 zuo4 lu4 di4 lu:3 xing2 ;We will have an overland journey.;8
+339;我正在逐字的翻译;wo3 zheng4 zai4 zhu2 zi4 de fan1 yi4 ;I am making a verbal translation.;8
+340;印度在中国的南边;Yin4 du4 zai4 Zhong1 guo2 de nan2 bian1 ;India is to the south of China.;8
+341;我们只好放弃汽车;wo3 men zhi3 hao3 fang4 qi4 qi4 che1 ;We'll have to dispense with a car.;8
+342;这条船沉下四英寻;zhe4 tiao2 chuan2 chen2 xia4 si4 ying1 xun2 ;The ship sank in four fathoms.;8
+343;她毕生致力于科学;ta1 bi4 sheng1 zhi4 li4 yu2 ke1 xue2 ;She dedicated her life to science.;8
+344;这个港口是天然港;zhe4 ge4 gang3 kou3 shi4 tian1 ran2 gang3 ;This harbor is a natural harbor.;8
+345;酸把地毯烧了个洞;suan1 ba3 di4 tan3 shao1 le ge4 dong4 ;The acid burnt a hole in the carpet.;8
+346;他从人群中挤过去;ta1 zong4 ren2 qun2 zhong4 ji3 guo4 qu ;He forced his way through the crowd.;8
+347;我并不完全同意你;wo3 bing4 bu4 wan2 quan2 tong2 yi4 ni3 ;I do not altogether agree with you.;8
+348;这块布料染的不好;zhe4 kuai4 bu4 liao4 ran3 de bu4 hao3 ;This piece of cloth has bad coloration.;8
+349;阳台是有墙的平台;yang2 tai2 shi4 you3 qiang2 de ping2 tai2 ;A balcony is a platform with a wall.;8
+350;这场戏总算结束了;zhe4 chang3 xi4 zong3 suan4 jie2 shu4 le ;The play came to an end after all.;8
+351;体育运动有益健康;ti3 yu4 yun4 dong4 you3 yi4 jian4 kang1 ;Athletic sports are good to the health.;8
+352;别着急,安心养病;bie4 zhao2 ji2 an1 xin1 yang3 bing4 ;Just take care of yourself and don't worry.;8
+353;西湖美得难以描述;xi1 hu2 mei3 de nan2 yi3 miao2 shu4 ;The West Lake was beautiful beyond description.;8
+354;请递给我一张纸巾;qing3 di4 ji3 wo3 yi1 zhang1 zhi3 jin1 ;Please pass me a piece of paper handkerchief.;8
+355;温度有细微的变化;wen1 du4 you3 xi4 wei1 de bian4 hua4 ;There is an imperceptible change in temperature.;8
+356;他上午十一点才醒;ta1 shang4 wu3 shi2 yi1 dian3 cai2 xing3 ;He didn't wake up until 11 o'clock in the morning.;8
+357;他擦去铅笔的痕迹;ta1 ca1 qu4 qian1 bi3 de hen2 ji1 ;He erases pencil marks.;8
+358;她把孩子抱在怀里;ta1 ba3 hai2 zi bao4 zai4 huai2 li3! ;She nestled the baby in her arms.;8
+359;他被一头野猪袭击;ta1 bei4 yi1 tou2 ye3 zhu1 xi2 ji1 ;He was attacked by a wild boar.;8
+360;我们在黑暗中摸索;wo3 men zai4 hei1 an4 zhong4 mo1 suo ;We groped amid the darkness.;8
+361;我只耽搁你几分钟;wo3 zhi3 dan1 ge ni3 ji3 fen1 zhong1 ;I'll only keep you a few minutes.;8
+362;那不是很恰当的话;na4 bu2 shi4 hen3 qia4 dang4 de hua4 ;That was not a very happy remark.;8
+363;熊猫是珍贵的动物;xiong2 mao1 shi4 zhen1 gui4 de dong4 wu4 ;Pandas are precious creatures.;8
+364;鸽子是和平的象征;ge1 zi3 shi4 he2 ping2 de xiang4 zheng1 ;The dove is the symbol of peace.;8
+365;我们宁死而不投降;wo3 men ning2 si3 er2 bu4 tou2 xiang2 ;We would rather die than surrender.;8
+366;码头工人开始卸货;ma3 tou2 gong1 ren2 kai1 shi3 xie4 huo4 ;Dockers started unloading the ship.;8
+367;小孩有柔软的身体;xiao3 hai2 you3 rou2 ruan3 de shen1 ti3 ;Little babies have lithe bodies.;8
+368;她讲了一辈子中文;ta1 jiang3 le yi1 bei4 zi Zhong1 wen2 ;She has spoken Chinese all her life.;8
+369;饲养员正在喂动物;si4 yang3 yuan2 zheng4 zai4 wei4 dong4 wu4 ;The keeper is feeding the animals.;8
+370;他的画在画廊展出;ta1 de hua4 zai4 hua4 lang2 zhan3 chu1 ;His pictures were showed in the gallery.;8
+371;你走时别忘了锁门;ni3 zou3 shi2 bie4 wang4 le suo3 men2 ;Don't neglect to lock the door when you leave.;8
+372;门前挂着一幅门帘;men2 qian2 gua4 zhuo2 yi1 fu2 men2 lian2 ;A portiere was hanging in front of the door.;8
+373;她体重为60公斤;ta1 ti3 zhong4 wei604 gong1 jin1! ;She weighs 60 kilos.;8
+374;我要报一宗盗窃案;wo3 yao4 bao4 yi1 zong1 dao4 qie4 an4 ;I want to report a theft.;8
+375;她的两只胳膊麻痹;ta1 de liang3 zhi3 ge1 bo ma2 bi4 ;She is paralyzed in both arms.;8
+376;他的歌充满了忧伤;ta1 de ge1 chong1 man3 le you1 shang1 ;His songs are full of dirge.;8
+377;他是那个团的耻辱;ta1 shi4 nei4 ge4 tuan2 de chi3 ru4 ;He was a dishonor to his regiment.;8
+378;鹿的斑点是黄色的;lu4 de ban1 dian3 shi4 huang2 se4 de ;The dapple of the deer is yellow.;8
+379;他悲伤地绞紧双手;ta1 bei1 shang1 de jiao3 jin3 shuang1 shou3 ;He wrung his hands in sorrow.;8
+380;这把重斧头不好用;zhe4 ba3 zhong4 fu3 tou2 bu4 hao3 yong4 ;The heavy axe was awkward to use.;8
+381;他用鞭子策马前行;ta1 yong4 bian1 zi3 ce4 ma3 qian2 xing4 ;He urged the horses on with a whip.;8
+382;他叫侍者拿菜单来;ta1 jiao4 shi4 zhe3 na2 cai4 dan1 lai2 ;He called the waiter to bring the menu.;8
+383;窝藏罪犯是犯法的;wo1 cang2 zui4 fan4 shi4 fan4 fa3 de ;Harboring criminals is an offence in law.;8
+384;我们的船逆流而上;wo3 men de chuan2 ni4 liu2 er2 shang4 ;Our ship stemmed on against the current.;8
+385;这个电钮接通电流;zhe4 ge4 dian4 niu3 jie1 tong1 dian4 liu2 ;This button switches the current on.;8
+386;他对舆论毫不关心;ta1 dui4 yu2 lun4 hao2 bu2 guan1 xin1 ;He cares not a whit for public opinion.;8
+387;小溪突然转向东流;xiao3 xi1 tu1 ran2 zhuan3 xiang4 dong1 liu2 ;The stream takes a sudden bend to the east.;8
+388;我看上去怎么样？;wo3 kan4 shang4 qu4 zen3 me yang4? ;How do I look?;8
+389;我能试穿一下吗？;wo3 neng2 shi4 chuan1 yi1 xia4 ma?! ;May I try it on?;8
+390;他下班回家了吗？;ta1 xia4 ban1 hui2 jia1 le ma?! ;Is he home from work?;8
+391;喔！多累的一天！;o1! ;duo1 le4i de yi1 tia1n!###Oh, what a tiring day!;8
+392;你的约会怎么样？;ni3 de yue1 hui4 zen3 me yang4? ;How was your date?;8
+393;你认为你能来吗？;ni3 ren4 wei2 ni3 neng2 lai2 ma?! ;Do you think you can come?;8
+394;请问我搞对了吗?;qing3 wen4 wo3 gao3 dui4 le ma? ;Have I got it right, please?;8
+395;出去吃晚餐如何？;chu1 qu4 ji2 wan3 can1 ru2 he2? ;How about going out for dinner?;8
+396;你们有空房间吗？;ni3 men you3 kong4 fang2 jian1 ma?! ;Do you have a room available?;8
+397;我不愿再见到你！;wo3 bu4 yuan4 zai4 jian4 dao4 ni3! ;I don't want to see your face!;8
+398;你去哪里度假了？;ni3 qu4 na3 li du4 jia4 le?! ;Where did you go for your vacation?;8
+399;糟糕!我把伞丢了;zao1 gao1! wo3 ba3 san3 diu1 le ;Damnation! I've lost my umbrella.;8
+400;你会说什么语言？;ni3 kuai4 shuo1 shen2 me yu3 yan2? ;What languages can you speak?;8
+401;海鸥在大海上飞翔;hai3 ou1 zai4 da4 hai3 shang4 fei1 xiang2 ;Gull flies over the sea.;8
+402;能给我一张纸吗？;neng2 ji3 wo3 yi1 zhang1 zhi3 ma?! ;Would you please give me a piece of paper?;8
+403;法官把囚犯释放了;fa3 guan1 ba3 qiu2 fan4 shi4 fang4 le ;The judge discharged the prisoner.;8
+404;目前生意萧条不振;mu4 qian2 sheng1 yi xiao1 tiao2 bu4 zhen4 ;Business is slack just now.;8
+405;圆的轴线是其直径;yuan2 de zhu2 xian4 shi4 qi2 zhi2 jing4! ;The axis of a circle is its diameter.;8
+406;婴儿在8点钟出生;ying1 er2 zai84 dian3 zhong1 chu1 sheng1 ;The baby was born on 8 o'clock.;8
+407;我对农业一窍不通;wo3 dui4 nong2 ye4 yi1 qiao4 bu4 tong1 ;I know nothing about agriculture.;8
+408;希腊位于欧洲南部;xi1 la4 wei4 yu2 ou1 zhou1 nan2 bu4 ;Greece is located in the south of Europe.;8
+409;他是一个高大的男孩;ta1 shi4 yi1 ge4 gao1 da4 de nan2 hai2 ;He is a tall boy.;9
+410;她从不穿绿色的衣服;ta1 cong2 bu4 chuan1 lu:4 se4 de yi1 fu ;She never wears green.;9
+411;我跳舞一点儿也不行;wo3 tiao4 wu3 yi1 dianr3 ye3 bu4 xing4 ;I'm no good at dancing.;9
+412;我知道发生了什么事;wo3 zhi1 dao4 fa1 sheng1 le shen2 me shi4 ;I know what happened.;9
+413;要么进来,要么出去;yao4 me jin4 lai2 yao4 me chu1 qu4 ;Either come in or go out.;9
+414;我解答不了这个难题;wo3 jie3 da2 bu4 liao3 zhe4 ge4 nan2 ti2 ;I can't solve the problem.;9
+415;我的头发长得很长了;wo3 de tou2 fa zhang3 de hen3 zhang3 le ;My hair has grown very long.;9
+416;这是一个寒冷的早晨;zhe4 shi4 yi1 ge4 han2 leng3 de zao3 chen2 ;It's a chilly morning.;9
+417;那条河长300公里;na4 tiao2 he2 zhang3003 gong1 li3 ;The river is 300 kilometers in length.;9
+418;嗯,但是你必须等我;en1 dan4 shi4 ni3 bi4 xu1 deng3 wo3 ;Mmm, but you must wait for me.;9
+419;我母亲已经五十岁了;wo3 mu3 qin1 yi3 jing1 wu3 shi2 sui4 le ;My mother is fifty years old.;9
+420;他提出了一种新理论;ta1 ti2 chu1 le yi1 zhong4 xin1 li3 lun4 ;He put forward a new theory.;9
+421;我不知道确切的日子;wo3 bu4 zhi1 dao4 que4 qie4 de ri4 zi ;I don't know the exact date.;9
+422;那儿有些彩色的气球;na4 r you3 xie1 cai3 se4 de qi4 qiu2 ;There are some color balloons.;9
+423;我儿子上小学三年级;wo3 er2 zi shang4 xiao3 xue2 san1 nian2 ji2! ;My son's in the third grade.;9
+424;她的故事使我很感动;ta1 de gu4 shi4 shi3 wo3 hen3 gan3 dong4 ;I was very moved by her story.;9
+425;他能跑得和我一样快;ta1 neng2 pao3 de huo4 wo3 yi2 yang4 kuai4 ;He can run as fast as I can.;9
+426;这大概正是我要做的;zhe4 da4 gai4 zheng4 shi4 wo3 yao4 zuo4 de ;Maybe that's what I'll do.;9
+427;我十二点出去吃午饭;wo3 shi2 er4 dian3 chu1 qu4 ji2 wu3 fan4 ;I go out for lunch at twelve.;9
+428;我必须立刻开始工作;wo3 bi4 xu1 li4 ke4 kai1 shi3 gong1 zuo4 ;I must start working at once.;9
+429;我正准备打电话给你;wo3 zheng4 zhun3 bei4 da3 dian4 hua4 gei3 ni3 ;I was just about to call you.;9
+430;我累得再也走不动了;wo3 lei4 de zai4 ye3 zou3 bu4 dong4 le ;I was too tired to walk any further.;9
+431;我昨天买了好几本书;wo3 zuo2 tian1 mai3 le hao3 ji3 ben3 shu1 ;I bought several books yesterday.;9
+432;一小时之内我就会到;yi1 xiao3 shi2 zhi1 nei4 wo3 jiu4 kuai4 dao4 ;I'll be coming within an hour.;9
+433;那事已提前安排好了;na4 shi4 yi3 ti2 qian2 an1 pai2 hao4 le ;It had been arranged beforehand.;9
+434;今天看上去是个晴天;jin1 tian1 kan4 shang4 qu4 shi4 ge4 qing2 tian1 ;Looks like a fine day today.;9
+435;吃饭前,我必须洗手;chi1 fan4 qian2 wo3 bi4 xu1 xi3 shou3 ;I must wash my hands before dinner.;9
+436;我确实很好,谢谢您;wo3 que4 shi2 hen3 hao3 xie4 xie nin2 ;I'm very well indeed, thank you.;9
+437;代我向你们全家问好;dai4 wo3 xiang4 ni3 men quan2 jia1 wen4 hao3 ;Give my best to your family.;9
+438;春雨带来了夏日百花;chun1 yu3 dai4 lai2 le xia4 ri4 bai3 hua1 ;Spring rains bring summer flowers.;9
+439;孩子们喜欢户外活动;hai2 zi men xi3 huan hu4 wai4 huo2 dong4 ;Children like outdoor activities.;9
+440;那男孩忽然哭了起来;na4 nan2 hai2 hu1 ran2 ku1 le qi3 lai ;The boy began crying all of a sudden.;9
+441;她离开一个多钟头了;ta1 li2 kai1 yi1 ge4 duo1 zhong1 tou2 le! ;She left little more than an hour ago.;9
+442;气候影响了他的健康;qi4 hou4 ying3 xiang3 le ta1 de jian4 kang1 ;The climate affected his health.;9
+443;我喜欢在图书馆学习;wo3 xi3 huan zai4 tu2 shu1 guan3 xue2 xi2 ;I like to study in the library.;9
+444;在那个班里我跟不上;zai4 nei4 ge4 ban1 li3 wo3 gen1 bu4 shang4 ;I was out of my depth in that class.;9
+445;天有点阴,可能下雨;tian1 you3 dian3 yin1 ke3 neng2 xia4 yu3 ;"It's a bit overcast; it might rain.";9
+446;她是饭店的女服务员;ta1 shi4 fan4 dian4 de nu:3 fu2 wu4 yuan2 ;She is a waitress in a restaurant.;9
+447;他住在学校的宿舍里;ta1 zhu4 zai4 xue2 xiao4 de su4 she4 li3 ;He hangs out in the school dormitory.;9
+448;我的新家在第十六层;wo3 de xin1 jia1 zai4 di4 shi2 liu4 ceng2 ;My new house is on the sixteenth floor.;9
+449;这座桥现在可以通行;zhe4 zuo4 qiao2 xian4 zai4 ke3 yi3 tong1 xing2 ;The bridge is now open to traffic.;9
+450;他一句中文都不会说;ta1 yi1 ju4 Zhong1 wen2 dou1 bu4 hui4 shuo1 ;He couldn't talk a word of Chinese.;9
+451;我很少听见他讲汉语;wo3 hen3 shao3 ting1 jian4 ta1 jiang3 Han4 yu3 ;I seldom hear he speaks Chinese.;9
+452;你和你姐姐都这么说;ni3 huo4 ni3 jie3 jie dou1 zhe4 me shuo1 ;You and your sister said so yourselves.;9
+453;他说服女儿改变主意;ta1 shuo1 fu2 nu:3 er2 gai3 bian4 zhu3 yi! ;He persuaded his daughter to change her mind.;9
+454;这棵苹果树很少结果;zhe4 ke1 ping2 guo3 shu4 hen3 shao3 jie2 guo3 ;The apple tree is seldom fruitful.;9
+455;我们都关心她的健康;wo3 men dou1 guan1 xin1 ta1 de jian4 kang1 ;We are all concerned about her health.;9
+456;已经出现了一些问题;yi3 jing1 chu1 xian4 le yi1 xie1 wen4 ti2! ;A number of (i.e. some) problems have arisen.;9
+457;那个学生昨天丢了书;nei4 ge4 xue2 sheng zuo2 tian1 diu1 le shu1 ;That student lost his book yesterday.;9
+458;领导做了英明的决定;ling3 dao3 zuo4 le ying1 ming2 de jue2 ding4 ;The leader made a sagacious decision.;9
+459;他的意见没多少影响;ta1 de yi4 jian4 mo4 duo1 shao ying3 xiang3 ;His opinion doesn't carry much weight.;9
+460;他胜过他班中的同学;ta1 sheng4 guo4 ta1 ban1 zhong4 di4 tong2 xue2 ;He got the better of his classmates.;9
+461;云是天空中的水汽团;yun2 shi4 tian1 kong1 zhong4 di4 shui3 qi4 tuan2 ;A cloud is a mass of vapor in the sky.;9
+462;还好我们没有跟着他;hai2 hao3 wo3 men mei2 you3 gen1 zhe ta1 ;It is just as well that we did not follow him.;9
+463;我中午通常只吃点心;wo3 zhong1 wu3 tong1 chang2 zhi3 ji2 dian3 xin1! ;Usually I only have a snack at lunchtime.;9
+464;她走进内室去换衣服;ta1 zou3 jin4 nei4 shi4 qu4 huan4 yi1 fu ;She went into the inner room to change her dress.;9
+465;丰年时人人都吃得饱;feng1 nian2 shi2 ren2 ren2 dou1 ji2 de bao3 ;In years of plenty everyone has plenty to eat.;9
+466;他想当医生或者经商;ta1 xiang3 dang4 yi1 sheng1 huo4 zhe3 jing1 shang1! ;He wants to be a doctor or go into business.;9
+467;今年的开始将会更好;jin1 nian2 de kai1 shi3 jiang1 hui4 geng4 hao3 ;The commencement of this year will be better.;9
+468;青少年是身体成熟期;qing1 shao4 nian2 shi4 shen1 ti3 cheng2 shu2 qi1 ;Teenage is the period at which the body reaches maturity.;9
+469;我的主修科目是法语;wo3 de zhu3 xiu1 ke1 mu4 shi4 fa3 yu3 ;My major is French.;9
+470;我上九点至五点的班;wo3 shang4 jiu3 dian3 zhi4 wu3 dian3 de ban1! ;I work nine to five.;9
+471;他推我,我跌了下来;ta1 tui1 wo3 wo3 die1 le xia lai ;He pushed me and I fell over.;9
+472;他刮胡须时割破了脸;ta1 gua1 hu2 xu1 shi2 ge1 po4 le lian3! ;He cut himself/his face shaving.;9
+473;未成熟的苹果是酸的;wei4 cheng2 shu2 de ping2 guo3 shi4 suan1 de ;Green apples are sour.;9
+474;我妈妈是个家庭妇女;wo3 ma1 ma shi4 ge4 jia1 ting2 fu4 nu:3 ;My mother is a housewife.;9
+475;这汤里有鸡肉的味道;zhe4 tang1 li3 you3 ji1 rou4 de wei4 dao ;This soup tastes of chicken.;9
+476;他既不会读也不会写;ta1 ji4 bu4 hui4 du2 ye3 bu4 kuai4 xie3 ;He can neither read nor write.;9
+477;他的书上个月出版了;ta1 de shu1 shang4 ge4 yue4 chu1 ban3 le ;His book came out last month.;9
+478;我给他买了一袋糖果;wo3 ji3 ta1 mai3 le yi1 dai4 tang2 guo3 ;I bought him a packet of sugar.;9
+479;她感到了写作的乐趣;ta1 gan3 dao4 le xie3 zuo4 de le4 qu4 ;She discovered the joy of writing.;9
+480;二十市斤折合十公斤;er4 shi2 shi4 jin1 zhe2 he2 shi2 gong1 jin1 ;20 jin goes to 10 kilograms.;9
+481;让我解释迟到的理由;rang4 wo3 jie3 shi4 chi2 dao4 de li3 you2 ;Let me explain why I was late.;9
+482;瓶子的封记已经腐烂;ping2 zi de feng1 ji4 yi3 jing1 fu3 lan4! ;The seal on the bottle has perished.;9
+483;她的围巾被油弄脏了;ta1 de wei2 jin1 bei4 you2 nong4 zang1 le ;Her kerchief is dirty with oil.;9
+484;那句话突然启发了她;na4 ju4 hua4 tu1 ran2 qi3 fa1 le ta1 ;That sentence suddenly illumined her.;9
+485;我有一大堆工作要做;wo3 you3 yi1 da4 dui1 gong1 zuo4 yao4 zuo4 ;I have a mountain of work to do.;9
+486;这个信封封得很严实;zhe4 ge4 xin4 feng1 feng1 de hen3 yan2 shi2 ;The envelope was firmly sealed.;9
+487;见面时,他拥抱了她;jian4 mian4 shi2 ta1 yong1 bao4 le ta1 ;He enfolded her when they met.;9
+488;昨夜温度是零下五度;zuo2 ye4 wen1 du4 shi4 ling2 xia4 wu3 du4 ;It was five below zero last night.;9
+489;地板上铺了一层水泥;di4 ban3 shang4 pu4 le yi1 ceng2 shui3 ni2 ;The floor has been cemented over.;9
+490;我打算担任这个工作;wo3 da3 suan4 dan1 ren4 zhe4 ge4 gong1 zuo4 ;I'm planning to take the job.;9
+491;落日把天空染成金色;luo4 ri4 ba3 tian1 kong1 ran3 cheng2 jin1 se4 ;The setting sun gilds the sky.;9
+492;他的诗集去年发表了;ta1 de shi1 ji2 qu4 nian2 fa1 biao3 le ;His poetry was published last year.;9
+493;我通常大概7点起床;wo3 tong1 chang2 da4 gai74 dian3 qi3 chuang2 ;I used to get up at about seven.;9
+494;那吗啡是注射进去的;na4 ma3 fei1 shi4 zhu4 she4 jin4 qu4 de! ;The morphine was administered by injection.;9
+495;她向她父亲喊叫求救;ta1 xiang4 ta1 fu4 qin1 han3 jiao4 qiu2 jiu4 ;She called to her father for help.;9
+496;他躺在沙发上看电视;ta1 tang3 zai4 sha1 fa1 shang4 kan4 dian4 shi4! ;He was lying on the sofa watching TV.;9
+497;她推说她觉得很疲劳;ta1 tui1 shuo1 ta1 jue2 de hen3 pi2 lao2 ;She pleaded that she felt very tired.;9
+498;我们完全掌握了情势;wo3 men wan2 quan2 zhang3 wo4 le qing2 shi4 ;We have the situation well in hand.;9
+499;工人们正在推卷线杆;gong1 ren2 men zheng4 zai4 tui1 juan4 xian4 gan3 ;The worker is pushing the distaff.;9
+500;这本杂志发行量很大;zhe4 ben3 za2 zhi4 fa1 xing2 liang4 hen3 da4 ;This magazine has a large circulation.;9
+501;欢迎你随时到我们家;huan1 ying2 ni3 sui2 shi2 dao4 wo3 men jia1 ;You are always welcome to our house.;9
+502;他的专业是比较文学;ta1 de zhuan1 ye4 shi4 bi3 jiao4 wen2 xue2 ;He majored in comparative literature.;9
+503;我们工厂生产磨刀石;wo3 men gong1 chang3 sheng1 chan3 mo4 dao1 shi2 ;Our factory produces grindstone.;9
+504;太阳使湿草闪闪发光;tai4 yang2 shi3 shi1 cao3 shan3 shan3 fa1 guang1 ;The wet grass sparkles in the sun.;9
+505;这三个学生又逃学了;zhe4 san1 ge4 xue2 sheng you4 tao2 xue2 le ;These three students played truant again.;9
+506;请做这个句子的填空;qing3 zuo4 zhe4 ge4 ju4 zi de tian2 kong4 ;Please fill in the blanks in the sentence.;9
+507;这条裤子我穿太紧了;zhe4 tiao2 ku4 zi wo3 chuan1 tai4 jin3 le ;This pair of trousers is too tight for me.;9
+508;新闻界的力量非常大;xin1 wen2 jie4 de li4 liang fei1 chang2 da4 ;The power of the press is very great.;9
+509;一架飞机在机场着陆;yi1 jia4 fei1 ji1 zai4 ji1 chang3 zhuo2 lu4 ;An airplane alighted on the airdrome.;9
+510;她每月都存一点儿钱;ta1 mei3 yue4 dou1 cun2 yi1 dianr3 qian2! ;She sets aside a bit of money every month.;9
+511;别忘了带上你的钓具;bie4 wang4 le dai4 shang4 ni3 de diao4 ju4 ;Don't forget to bring your fishing tackle.;9
+512;这种树木可见于平原;zhe4 zhong3 shu4 mu4 ke3 jian4 yu2 ping2 yuan2 ;Such trees can be found in the plains.;9
+513;委员会今天三点开会;wei3 yuan2 hui4 jin1 tian1 san1 dian3 kai1 hui4 ;The committee meets at three today.;9
+514;这间办公室里非常吵;zhe4 jian4 ban4 gong1 shi4 li3 fei1 chang2 chao3 ;It's very noisy in this office.;9
+515;政府坚持自己的政策;zheng4 fu3 jian1 chi2 zi4 ji3 de zheng4 ce4 ;The government stood pat in its policy.;9
+516;他们热烈地欢迎主席;ta1 men re4 lie4 de huan1 ying2 zhu3 xi2 ;They gave the chairman a tumultuous welcome.;9
+517;抽彩仪式星期六举行;chou1 cai3 yi2 shi4 xing1 qi1 liu4 ju3 xing2! ;The draw for the raffle takes place on Saturday.;9
+518;这药的药效令人满意;zhe4 yao4 de yao4 xiao4 ling4 ren2 man3 yi4 ;The efficacy of the medicine is satisfactory.;9
+519;这种食品应低温保存;zhe4 zhong3 shi2 pin3 ying4 di1 wen1 bao3 cun2 ;The food should be kept at low temperature.;9
+520;我讨厌他在教室抽烟;wo3 tao3 yan4 ta1 zai4 jiao4 shi4 chou1 yan1 ;I got sick of his smoking in the classroom.;9
+521;农民们正在收割大麦;nong2 min2 men zheng4 zai4 shou1 ge1 da4 mai4 ;The peasants are reaping a field of barley.;9
+522;我的工资多达一万元;wo3 de gong1 zi1 duo1 da2 yi1 wan4 yuan2 ;I received no less than ten thousand yen for my work.;9
+523;少女以前要上仪态课;shao4 nu:3 yi3 qian2 yao4 shang4 yi2 tai4 ke4 ;Young ladies used to have lessons in deportment.;9
+524;小偷跳上汽车逃走了;xiao3 tou1 tiao4 shang4 qi4 che1 tao2 zou3 le ;The thief jumped into a car and made his escape.;9
+525;信封内装有几份附件;xin4 feng1 nei4 zhuang1 you3 ji3 fen4 fu4 jian4 ;There are several enclosures in the envelope.;9
+526;别忘了给服务员小费;bie4 wang4 le ji3 fu2 wu4 yuan2 xiao3 fei4! ;Please remember (i.e. Don't forget to tip) the waiter.;9
+527;他稍微会一点儿日语;ta1 shao1 wei1 kuai4 yi1 dianr3 ri4 yu3! ;He has some little acquaintance with the Japanese language.;9
+528;出门之前把窗户关严;chu1 men2 zhi1 qian2 ba3 chuang1 hu guan1 yan2 ;Make the windows secure before leaving the house.;9
+529;散装运送货物更方便;san4 zhuang1 yun4 song4 huo4 wu4 geng4 fang1 bian4 ;It is more convenient to transport the goods in bulk.;9
+530;他被罚款200美元;ta1 bei4 fa2 kua3n002 mei3 yuan2 ;He was fined 200 dollars.;9
+531;他被他的老板解雇了;ta1 bei4 ta1 de lao3 ban3 jie3 gu4 le ;He was fired by his boss.;9
+532;我把赚的钱都花光了;wo3 ba3 zuan4 de qian2 dou1 hua1 guang1 le ;I've spent all my earnings.;9
+533;植物因缺水而枯死了;zhi2 wu4 yin1 que1 shui3 er2 ku1 si3 le ;The plant died for lack of water.;9
+534;他妨碍我把工作做好;ta1 fang2 ai4 wo3 ba3 gong1 zuo4 zuo4 hao4 ;He impedes me to do the job well.;9
+535;我上个月瘦了好几磅;wo3 shang4 ge4 yue4 shou4 le hao3 ji3 bang4 ;I lost several pounds last month.;9
+536;小女孩在河里淹死了;xiao3 nu:3 hai2 zai4 he2 li3 yan1 si3 le ;The little girl drowned in the river.;9
+537;他的经验缓慢地成熟;ta1 de jing1 yan4 huan3 man4 de cheng2 shu2 ;His experience has a slow maturity.;9
+538;镜头转换到一座坟墓;jing4 tou2 zhuan3 huan4 dao4 yi1 zuo4 fen2 mu4 ;The scene shifted to a sepulcher.;9
+539;湿润的风从南方吹来;shi1 run4 de feng1 zong4 nan2 fang1 chui1 lai2 ;A humid wind blew from the south.;9
+540;我不喜欢喝速溶咖啡;wo3 bu4 xi3 huan he4 su4 rong2 ka1 fei1 ;I don't like to drink instant coffee.;9
+541;不要干涉别人的事情;bu4 yao4 gan1 she4 bie2 ren2 de shi4 qing ;Don't meddle with other men's business.;9
+542;她把糖搅和到咖啡里;ta1 ba3 tang2 jiao3 huo4 dao4 ka1 fei1 li3 ;She stirred the sugar into her coffee.;9
+543;他对疯狂英语很着迷;ta1 dui4 feng1 kuang2 Ying1 yu3 hen3 zhao2 mi2 ;He is crazy about Crazy English.;9
+544;春天里万物欣欣向荣;chun1 tian1 li3 wan4 wu4 xin1 xin1 xiang4 rong2 ;Nature is at its best in spring.;9
+545;历史常为偏见所曲解;li4 shi3 chang2 wei4 pian1 jian4 suo3 qu3 xie4 ;Histories are often warped by biases.;9
+546;真正的权力属于人民;zhen1 zheng4 de quan2 li4 shu3 yu2 ren2 min2 ;The real power resides in the people.;9
+547;我喜欢熟桃的香甜味;wo3 xi3 huan shu2 tao2 de xiang1 tian2 wei4 ;I like the luscious taste of ripe peaches.;9
+548;我挣多少钱与你无关;wo3 zheng4 duo1 shao qian2 yu4 ni3 wu2 guan1 ;How much money I earn is none of your concern.;9
+549;床头上有一个长枕垫;chuang2 tou shang4 you3 yi1 ge4 zhang3 zhen3 dian4 ;There is a bolster across the head of the bed.;9
+550;拍照时照相机不要晃;pai1 zhao4 shi2 zhao4 xiang4 ji1 bu4 yao4 huang4! ;Try not to jerk the camera when taking a photograph.;9
+551;现在卖报纸利润很少;xian4 zai4 mai4 bao4 zhi3 li4 run4 hen3 shao3 ;There is very little profit in selling newspapers at present.;9
+552;谣传近期鸡蛋要涨价;yao2 chuan2 jin4 qi1 ji1 dan4 yao4 zhang4 jia4 ;A rumor went forth that the price of eggs would be raised soon.;9
+553;我喜欢节奏快的音乐;wo3 xi3 huan jie2 zou4 kuai4 de yin1 yue4 ;I like fast music.;9
+554;玉米不久就要结穗了;yu4 mi3 bu4 jiu3 jiu4 yao4 jie2 sui4 le ;The corn will soon ear.;9
+555;刀刃把他的腿划破了;dao1 ren4 ba3 ta1 de tui3 hua4 po4 le ;The blade slashed his leg open.;9
+556;我认识汤姆很多年了;wo3 ren4 shi tang1 mu3 hen3 duo1 nian2 le ;I've known Tom for years.;9
+557;他们杜绝了这些坏事;ta1 men du4 jue2 le zhe4 xie huai4 shi4 ;They put a stop to the evils.;9
+558;他常带着一个酒葫芦;ta1 chang2 dai4 zhuo2 yi1 ge4 jiu3 hu2 lu2 ;He always takes a wine gourd.;9
+559;他对他的错深感羞愧;ta1 dui4 ta1 de cuo4 shen1 gan3 xiu1 kui4! ;He felt mortified for his mistake.;9
+560;葬礼是个忧郁的场合;zang4 li3 shi4 ge4 you1 yu4 de chang3 he2 ;A funeral is a somber occasion.;9
+561;他的眼睛被烟熏痛了;ta1 de yan3 jing1 bei4 yan1 xun1 tong4 le ;His eyes smart at the smoke.;9
+562;忧虑损害了她的健康;you1 lu:4 sun3 hai4 le ta1 de jian4 kang1 ;Cares preyed upon her health.;9
+563;他在食槽里放了些草;ta1 zai4 shi2 cao2 li3 fang4 le xie1 cao3 ;He put some grass in the manger.;9
+564;他们的意见分歧很大;ta1 men de yi4 jian4 fen1 qi2 hen3 da4 ;They differ widely in their opinions.;9
+565;这堡垒占据控制地位;zhe4 bao3 lei3 zhan4 ju4 kong4 zhi4 di4 wei4! ;The fort occupies a commanding position.;9
+566;猫在戏弄那只活老鼠;mao1 zai4 xi4 nong4 na4 zhi3 huo2 lao3 shu3 ;The cat is playing with a live mouse.;9
+567;我有五倍于汤姆的书;wo3 you3 wu3 bei4 yu2 tang1 mu3 de shu1 ;I have five times the number of Tom's books.;9
+568;老鹰抓住小鸡飞走了;lao3 ying1 zhua1 zhu4 xiao3 ji1 fei1 zou3 le ;The hawk snatched the chicken and flew away.;9
+569;办公室前有一丛玫瑰;ban4 gong1 shi4 qian2 you3 yi1 cong2 mei2 gui1 ;There is a rose bush in front of the office.;9
+570;那种浅底小船叫小舟;na4 zhong4 qian3 di3 xiao3 chuan2 jiao4 xiao3 zhou1 ;The small shallow boat is called a cockle.;9
+571;我预祝大家岁首大吉;wo3 yu4 zhu4 da4 jia1 sui4 shou3 da4 ji2 ;I wish everybody good luck at the beginning of the year.;9
+572;星期天对你合适吗?;xing1 qi1 tian1 dui4 ni3 he2 shi4 ma? ;Will Sunday suit you?;9
+573;你能帮我一个忙吗？;ni3 neng2 bang1 wo3 yi1 ge4 mang2 ma?! ;Would you do me a favor?;9
+574;你的牛排要几分熟？;ni3 de niu2 pai2 yao4 ji3 fen4 shu2? ;How do you want your steak?;9
+575;你有一件黑夹克吗？;ni3 you3 yi1 jian4 hei1 jia1 ke4 ma?! ;Do you have a black jacket?;9
+576;你要出来散散步吗?;ni3 yao4 chu1 lai san4 san4 bu4 ma? ;Are you coming out for a walk?;9
+577;你喜欢姜汁啤酒吗？;ni3 xi3 huan jiang1 zhi1 pi2 jiu3 ma?! ;Do you like ginger beer?;9
+578;你喜欢流行音乐吗？;ni3 xi3 huan liu2 xing2 yin1 yue4 ma?! ;Do you like popular music?;9
+579;请把账单给我好吗？;qing3 ba3 zhang4 dan1 ji3 wo3 hao4 ma?! ;Could I have the bill, please?;9
+580;你拿到火车票了吗？;ni3 na2 dao4 huo3 che1 piao4 le ma?! ;Have you got your train ticket?;9
+581;再给你倒杯茶好吗？;zai4 ji3 ni3 dao4 bei1 cha2 hao4 ma?! ;Can I pour you another cup of tea?;9
+582;我用了一柄长柄汤杓;wo3 yong4 le yi1 bing3 zhang3 bing3 tang1 shao2 ;I use a soup ladle.;9
+583;没关系。有什么事？;mei4 guan1 xi. yo3u she2n me shi4?!;It doesn't matter!###What's up?;9
+584;我想我已说清楚了?;wo3 xiang3 wo3 yi3 shuo1 qing1 chu le? ;I suppose I've made myself clear?;9
+585;你刚才指的是什么？;ni3 gang1 cai2 zhi3 de shi4 shen2 me?! ;What were you alluding to just now?;9
+586;狮子长着黄褐色棕毛;shi1 zi zhang3 zhuo2 huang2 he4 se4 zong1 mao2 ;A lion has tawny mane.;9
+587;铜的化学符号是Cu;tong2 de hua4 xue2 fu2 hao4 shiCu4 ;The chemical symbol for copper is Cu.;9
+588;你周末计划做什么？;ni3 zhou1 mo4 ji4 hua4 zuo4 shen2 me?! ;What are your plans for the weekend?;9
+589;我们要在中午前後走;wo3 men yao4 zai4 zhong1 wu3 qian後2 zou3! ;We're leaving round about midday.;9
+590;你能听到晨钟响吗?;ni3 neng2 ting1 dao4 chen2 zhong1 xiang3 ma? ;Can you hear the morning bell ringing?;9
+591;他精神抖擞准备出发;ta1 jing1 shen2 dou3 sou3 zhun3 bei4 chu1 fa1! ;He's full of sap and ready to start.;9
+592;有名的比萨塔是斜的;you3 ming2 de bi3 sa4 ta3 shi4 xie2 de! ;The famous tower of Pisa leans at an angle.;9
+593;咳嗽药中含有祛痰剂;ke2 sou yao4 zhong4 han2 you3 qu1 tan2 ji4! ;The cough medicine contains an expectorant.;9
+594;他不愿做出任何承诺;ta1 bu4 yuan4 zuo4 chu1 ren4 he2 cheng2 nuo4 ;He would not commit himself in any way.;9
+595;那个乞丐饿得晕倒了;nei4 ge4 qi3 gai4 e4 de yun4 dao4 le ;The beggar fell down in a swoon from sheer hunger.;9
+596;蜥蜴和蛇是冷血动物;xi1 yi4 huo4 she2 shi4 leng3 xue4 dong4 wu4 ;Lizards and snakes are cold-blooded animals.;9
+597;他跳远时扭伤了左踝;ta1 tiao4 yuan3 shi2 niu3 shang1 le zuo3 huai2 ;He hurt his left ankle in the broad jump.;9
+598;那只猫被卡车碾死了;na4 zhi3 mao1 bei4 ka3 che1 nian3 si3 le ;The cat got run over by the lorry and squashed.;9
+599;目前的市场相当萧条;mu4 qian2 de shi4 chang3 xiang1 dang1 xiao1 tiao2 ;The market is rather depressed at the moment.;9
